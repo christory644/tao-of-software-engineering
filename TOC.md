@@ -2,7 +2,7 @@ Table of Contents
 
 0. [Introduction](./0-introduction.md)
 
-I. The Self
+## I. The Self
 
 - [The Developer Who Knows Nothing](./The Developer Who Knows Nothing)
 - [You Are Not Your Stack](./You Are Not Your Stack)
@@ -11,7 +11,7 @@ I. The Self
 - [Silence Before the Syntax](./Silence Before the Syntax)
 - [Burnout is a Broken Loop](./Burnout is a Broken Loop)
 
-II. The Code
+## II. The Code
 
 - [The Code that Can Be Understood is Beautiful](./The Code that Can Be Understood is Beautiful)
 - [Tests Are Gentle Truths](./Tests Are Gentle Truths)
@@ -20,7 +20,7 @@ II. The Code
 - [Comments for Ghosts](./Comments for Ghosts)
 - [Naming as a Spiritual Practice](./Naming as a Spiritual Practice)
 
-III. The Team
+## III. The Team
 
 - [Pair Programming with the Universe](./Pair Programming with the Universe)
 - [Pull Requests and Ego Death](./Pull Requests and Ego Death)
@@ -29,7 +29,7 @@ III. The Team
 - [Leading Without Forcing](./Leading Without Forcing)
 - [The Tao of the Daily Standup](./The Tao of the Daily Standup)
 
-IV. The System
+## IV. The System
 
 - [Architectures Are Temporary Temples](./Architectures Are Temporary Temples)
 - [Bugs Are Teachers](./Bugs Are Teachers)
@@ -38,7 +38,7 @@ IV. The System
 - [Rewrite Nothing Until You Understand Everything](./Rewrite Nothing Until You Understand Everything)
 - [The System Always Reflects the Soul of Its Creators](./The System Always Reflects the Soul of Its Creators)
 
-V. The World
+## V. The World
 
 - [Tech Is Not Neutral](./Tech Is Not Neutral)
 - [Software Shapes Civilization](./Software Shapes Civilization)
