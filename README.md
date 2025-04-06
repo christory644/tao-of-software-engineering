@@ -31,7 +31,7 @@ Critique is welcome. Cynicism is not.
 
 ## 🧘‍♂️ License & Intent
 
-© 2025 Chris Story. All rights reserved.
+© 2025 Christopher Story. All rights reserved.
 
 You are welcome to:
 
