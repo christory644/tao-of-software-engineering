@@ -105,3 +105,11 @@ From here, we begin to move. Not with force, but with flow.
 
 > *"To attain knowledge, add things every day. To attain wisdom, remove things every day."*\
 > — Lao Tzu
+
+---
+
+status: draft
+
+© 2025 Chris Story.  
+You may share brief excerpts with attribution.  
+Please do not copy or republish full sections. See [LICENSE](./LICENSE.md) for details.
