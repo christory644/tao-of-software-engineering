@@ -51,6 +51,8 @@ So breathe easy, step lightly, and let's begin this journey together. Into the s
 
 ---
 
+status: draft
+
 © 2025 Chris Story.  
 You may share brief excerpts with attribution.  
 Please do not copy or republish full sections. See [LICENSE](./LICENSE.md) for details.
