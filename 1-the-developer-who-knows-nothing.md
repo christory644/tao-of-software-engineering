@@ -7,8 +7,6 @@ Every meaningful journey begins in uncertainty. A fresh terminal awaits your fir
 
 When we begin to learn, confusion is our first teacher. Each error whispers insight; each unknown invites curiosity. Have you noticed how your best learning often comes not from answers, but from the questions that linger? There is comfort in admitting ignorance freely, a courage the beginner instinctively understands but the expert often forgets.
 
----
-
 #### Confidence
 
 But confidence, like code, accumulates complexity: layer by invisible layer, it becomes harder to question, harder to change.
@@ -18,8 +16,6 @@ Over time, confidence grows. Tools become familiar. Syntax becomes second nature
 There's a danger in this forgetting. The illusion of mastery tempts us to believe we've arrived. We speak with certainty, resist questions that reveal our gaps, and scoff at those who ask them. The terminal is no longer a mystery; it becomes a stage. We become brittle, not from ignorance, but from fear of revealing it. When was the last time you let yourself say, without shame, "I don't know"?
 
 **Remember this:** the Tao teaches that all knowledge is provisional. Certainty is an illusion we construct to protect ourselves from the discomfort of unknowing. But the universe, like a codebase, thrives on change. What is true today may break tomorrow. Humility is not a concession; it's a strategy for survival.
-
----
 
 #### Bravado
 
@@ -40,8 +36,6 @@ Their first pairing session started in silence, except for the hum of the air co
 
 She hadn't revisited that part of the code in years. Together, they opened `syncBillingData()`, an old function she'd copied from another service. It had grown into a mess of nested `if` statements, configuration overrides, and cryptic flags like `skipValidation` and `forceLegacyMode`. Naming conventions that once made sense had become obscure, inherited habits. She saw choices she'd made out of convenience, others out of dogma. Some still held up. Others didn't. The question opened a door, not only to improve the code, but to bring greater clarity to the system and to herself. She realized, gratefully, that she was growing again. Not because she had all the answers, but because she was willing to question them.
 
----
-
 #### Return
 
 These stories point to something deeper: the quiet art of returning.
@@ -54,8 +48,6 @@ Late at night, when the office is quiet and the debugger is open, you may feel t
 
 We all carry stories like this: moments when clarity didn't arrive through cleverness, but through stillness. These moments are not accidents. They are reminders: the most profound breakthroughs often emerge not in bursts of brilliance, but in the quiet courage of presence.
 
----
-
 #### Wonder
 
 And so we look back, not to regress, but to remember.
@@ -67,8 +59,6 @@ In this world of instant answers, where AI completes our code and Stack Overflow
 > *"Knowing others is wisdom; knowing yourself is enlightenment."*\
 > — Lao Tzu
 
----
-
 #### Connection
 
 In community, too, the value of not knowing begins to shine.
@@ -78,8 +68,6 @@ Teams that thrive are not filled with know it alls. They are filled with people 
 When you face a problem you don't understand, pause. Read the code as if it were written by someone you admire. Ask a teammate how they see it. Even the parts you're sure of, look again. Insight often hides in the places we stopped looking. These small gestures aren't signs of weakness; they are the quiet movements of mastery.
 
 If you feel impostor syndrome creeping in, remember: the impostor is the one who pretends to know. The beginner, the honest one, the learner, that's who belongs here. The more you admit you don't know, the more you invite growth, insight, and connection.
-
----
 
 #### Presence
 
