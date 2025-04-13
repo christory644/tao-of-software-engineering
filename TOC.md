@@ -5,7 +5,7 @@ Table of Contents
 ## I. The Self
 
 - [The Developer Who Knows Nothing](./1-the-developer-who-knows-nothing.md)
-- [You Are Not Your Stack](./You Are Not Your Stack)
+- [You Are Not Your Stack](./2-you-are-not-your-stack.md)
 - [Flow Like a Function](./Flow Like a Function)
 - [Let Go of Cleverness](./Let Go of Cleverness)
 - [Silence Before the Syntax](./Silence Before the Syntax)
