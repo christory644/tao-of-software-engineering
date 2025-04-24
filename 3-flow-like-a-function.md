@@ -1,4 +1,4 @@
-## Chapter 3: Flow Like a Function
+# Chapter 3: Flow Like a Function
 
 > "Life is a series of natural and spontaneous changes. Don’t resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like."\
 > — Lao Tzu
