@@ -1,4 +1,4 @@
-# Chatper 5: Silence Before the Syntax
+# Chapter 5: Silence Before the Syntax
 
 > “Music is the silence between the notes.”\
 > — Claude Debussy
@@ -44,6 +44,7 @@ True silence means accepting vulnerability, advocating deliberately for thoughtf
 #### Collective Silence: Structured Team Practices
 
 Silence isn't solely individual. Teams, too, can deliberately harness its power through structured practices:
+
 - Silent Code Reviews: Reviewers quietly study code without immediate commenting. Silence enables deeper comprehension, producing fewer superficial and more insightful observations.
 - Silent Brainwriting: Replacing vocal brainstorming with silent written idea generation vastly improves quality and originality, allowing every voice, especially quieter ones, to surface fully.
 - Intentional Asynchronous Communication: Norms that favor reflective pauses before responses reduce misunderstandings, fostering richer, more intentional dialogue.
@@ -56,6 +57,7 @@ Each structured silence practice affirms that productivity arises not from const
 #### Practical Rituals for Software Silence
 
 Weaving silence naturally into our daily development flow is often easiest through small, intentional rituals tied to familiar coding practices:
+
 - The Pre-Commit Pause: Before committing code, step away briefly. Return with fresh eyes, catching subtle issues previously overlooked.
 - The Abstraction Breath: Pause deliberately before introducing new abstractions. Reflect: Is this complexity essential, or am I adding unnecessary cognitive overhead?
 - Pull-Request Silence: After drafting a pull request or critical comment, delay submitting for at least ten minutes. Allow subconscious clarity to sharpen your intention.
@@ -63,6 +65,7 @@ Weaving silence naturally into our daily development flow is often easiest throu
 #### Cultivating Internal Silence Amid Noise
 
 When stepping away physically isn't possible, simple mindfulness practices can cultivate internal silence even amidst chaos:
+
 - Breath Counting: Quietly count five slow breaths, momentarily grounding attention inward and creating mental space amid distractions.
 - Sensory Grounding: Notice sensations, such as fingers on keys or feet on the floor. This simple act anchors attention, briefly clearing mental clutter.
 - Brief Visualization: Imagine your mental processes as a compiler, quietly indexing, garbage-collecting noise, optimizing your current context.
