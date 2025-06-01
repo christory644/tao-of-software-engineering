@@ -8,7 +8,7 @@ Table of Contents
 - [You Are Not Your Stack](./2-you-are-not-your-stack.md)
 - [Flow Like a Function](./3-flow-like-a-function.md)
 - [Let Go of Cleverness](./4-let-go-of-cleverness.md)
-- [Silence Before the Syntax](./Silence Before the Syntax)
+- [Silence Before the Syntax](./5-silence-before-the-syntax.md)
 - [Burnout is a Broken Loop](./Burnout is a Broken Loop)
 
 ## II. The Code
