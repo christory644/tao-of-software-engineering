@@ -168,3 +168,11 @@ As you cultivate simplicity, you might also notice a deeper silence emerging, on
 
 > "Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials."\
 > — Lin Yutang
+
+---
+
+status: draft
+
+© 2025 Christopher Story.
+You may share brief excerpts with attribution.  
+Please do not copy or republish full sections. See [LICENSE](./LICENSE.md) for details.

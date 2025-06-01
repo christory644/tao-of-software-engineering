@@ -89,3 +89,11 @@ Maybe that's what Taoist wisdom has pointed toward all along: true mastery emerg
 
 > "Rivers know this: there is no hurry. We shall get there some day."\
 > — A.A. Milne
+
+---
+
+status: draft
+
+© 2025 Christopher Story.
+You may share brief excerpts with attribution.  
+Please do not copy or republish full sections. See [LICENSE](./LICENSE.md) for details.
